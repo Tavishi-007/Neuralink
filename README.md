@@ -1,3 +1,7 @@
+<img width="417" height="417" alt="image" src="https://github.com/user-attachments/assets/29c9b863-aa4f-4ca1-b4aa-846c2e9a9866" />
+
+Neuralink
+
 Problem Statement: 
 
 
