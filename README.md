@@ -102,7 +102,9 @@ Step 10: Final Demo Prep*
 ---
 
 
-
+Profiles: 
 Linkedin profile : www.linkedin.com/in/tavishi-baranwal-aba65627a
+
 Project Video link : https://drive.google.com/file/d/16q-RKj8mCgQxtA5Ivq1vIhhcIMFB3Afa/view?usp=sharing
+
 Trailmix Profile : https://www.salesforce.com/trailblazer/nfo667k5lok54uaisl
